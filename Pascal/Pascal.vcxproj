@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Pascal.cpp" />
-    <ClCompile Include="screen.cpp" />
+    <ClCompile Include="Main.c" />
+    <ClCompile Include="Pascal.c" />
+    <ClCompile Include="screen.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

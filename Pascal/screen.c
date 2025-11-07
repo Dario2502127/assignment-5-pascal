@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 void clearScreen(void) {
-	printf("\x1b[23");
+	printf("\x1b[2J");
+	printf("\x1b[H");
 	fflush(stdout);
 
 }
